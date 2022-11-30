@@ -1,3 +1,29 @@
-h1 {
-    color: red;
+.slide-bg {
+    background-color: #FEEAE9;
+}
+
+.btn-buy {
+    height: 52px;
+    width: 168px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: none;
+    background-color: hsl(337, 91%, 55%);
+}
+
+.price {
+    color: hsl(337, 91%, 55%);
+}
+
+.btn-buy>a {
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+.submit-section {
+    background-color: #FEEAE9;
+    height: 500px;
 }
